@@ -1,0 +1,6 @@
+applications:
+- memory: 512M
+  instances: 1
+  name: myBluemixApp
+  random-route: true
+  buildpack: staticfile_buildpack
