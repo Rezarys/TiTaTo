@@ -1,0 +1,27 @@
+table.center {
+	margin-left: auto;
+	margin-right: auto;
+	border-collapse: collapse;
+	width: 40%;
+}
+
+tr td {
+	border: 2px solid black;
+	cursor: pointer;
+}
+
+td{
+	padding-bottom: 33.33%; 
+}
+
+td.playero {
+	background-image: url("https://vignette.wikia.nocookie.net/universal-crusade/images/a/a5/X.png/revision/latest?cb=20170903062123");
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+td.playert {
+	background-image: url("https://likeahammerinthesink.files.wordpress.com/2014/03/circle001.jpg");
+	background-size: contain;
+	background-repeat: no-repeat;
+}
